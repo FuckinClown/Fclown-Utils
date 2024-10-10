@@ -1,5 +1,12 @@
 import random
-from colorama import Fore, init
+
+try:
+    from colorama import Fore, init
+except:
+    print("Colorama not installed, installing via pip")
+    import os; os.system("pip install colorama")
+    exit("\nFixed, please re-run the program")
+
 init(True) # Windows cmd color support
 
 #My stuff
