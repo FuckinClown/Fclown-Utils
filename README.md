@@ -8,6 +8,13 @@ I started this project around September of 2023 and have been slowly adding stuf
 This is sorta meant for individual account editing/dumping and not mass disruption, unless you have the secret key
 
 **THERE WILL BE BUGS** This is still a 1.0.X release and it is NOT super polished, especially the secret key section
+## Usage/Examples
+
+Ignore all other files than ``main.py``, that is what you have to run
+
+all other files are dependencies or liberaries so the main file isnt 2k+ lines long
+
+
 ## WIP Features
 
 There are way too many features to add
