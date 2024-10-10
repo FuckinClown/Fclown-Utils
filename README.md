@@ -14,7 +14,7 @@ Ignore all other files than ``main.py``, that is what you have to run
 
 all other files are dependencies or liberaries so the main file isnt 2k+ lines long
 
-
+This has been ran and tested with on **Python 3.12.5**, however I know that older versions will work
 ## WIP Features
 
 There are way too many features to add
